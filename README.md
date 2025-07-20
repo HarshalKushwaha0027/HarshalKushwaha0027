@@ -49,7 +49,8 @@
 ## 🚀 Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![HTML](https://img.shields.io/badge/-HTML-black?style=flat-square&logo=htm)
+![HTML](<img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent">
+)
 ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=cpp)
 ![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
 ![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css)
