@@ -29,7 +29,7 @@
 
 ## 📚 Learning
 
-- full stack developmwnt
+- full stack development
 - Data Structures & algorithms 
 
 ---
@@ -49,7 +49,7 @@
 ## 🚀 Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![HTML]("https://img.shields.io/badge/:badgeContent")
+![HTML](https://img.shields.io/badge/-HTML-black?style=flat-square&logo=express)
 ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=express)
 ![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=mongodb)
 ![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=tailwind-css)
