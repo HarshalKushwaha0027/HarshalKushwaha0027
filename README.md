@@ -49,11 +49,11 @@
 ## 🚀 Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![HTML](https://img.shields.io/badge/-HTML-black?style=flat-square&logo=express)
-![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=express)
-![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=mongodb)
-![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=tailwind-css)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=daisyui)
+![HTML](https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html)
+![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c++)
+![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
+![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 
 ---
 
