@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Harshal--Kushwaha--317b62271-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="https://www.instagram.com/harshal_kushwah_/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-@arsh_ansari_2312-purple?style=flat-square&logo=instagram" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-@harshal_kushwah_-purple?style=flat-square&logo=instagram" alt="Instagram" />
   </a>
 </p>
 
