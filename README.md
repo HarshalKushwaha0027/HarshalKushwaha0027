@@ -49,9 +49,10 @@
 ## 🚀 Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![HTML](<img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent">
+![HTML](https://img.shields.io/badge/html-HTML-orange?logo=html5&logoColor=white
 )
-![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=cpp)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white
+)
 ![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
 ![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
