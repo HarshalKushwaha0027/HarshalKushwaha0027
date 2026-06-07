@@ -9,18 +9,20 @@ on:
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
+# Explicitly grant write permissions to the action
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      # Updated to v4 to fix the Node 20 warning
+      - uses: actions/checkout@v4
       
       - uses: Platane/snk/svg-only@v3
         with:
-          # github user name to read the contribution graph from
           github_user_name: HarshalKushwaha0027
-          
-          # Generates both a light and dark mode SVG
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
@@ -28,7 +30,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
       - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        uses: crazy-max/ghaction-github-pages@v4.0.0
         with:
           target_branch: output
           build_dir: dist
