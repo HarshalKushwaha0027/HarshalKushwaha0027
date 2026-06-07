@@ -90,7 +90,11 @@
 ## ✨ A Glimpse of Me
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="400" alt="Matrix code rain" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HarshalKushwaha0027/HarshalKushwaha0027/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HarshalKushwaha0027/HarshalKushwaha0027/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/HarshalKushwaha0027/HarshalKushwaha0027/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 ---
 
